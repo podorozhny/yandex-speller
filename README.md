@@ -1,4 +1,4 @@
 yandex-speller
 ==============
 
-Wrapper for Yandex Speller API http://api.yandex.ru/speller/
+Wrapper for Yandex Speller API http://tech.yandex.ru/speller/

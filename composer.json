@@ -1,0 +1,21 @@
+{
+    "name": "podorozhny/yandex-speller",
+    "homepage": "https://github.com/podorozhny/yandex-speller",
+    "description": "Wrapper for Yandex Speller API",
+    "keywords": ["yandex", "api", "spellcheck", "speller"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan Podorozhny",
+            "email": "ivan@podorozhny.ru"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~5.0"
+    }
+}
